@@ -1,0 +1,53 @@
+Helpful in Selenium/ Cypress / Katalon Web Projects.
+
+---
+
+# Web Automation
+
+## Basic
+
+- [http://live.demoguru99.com/](http://live.demoguru99.com/)
+- https://the-internet.herokuapp.com
+- https://www.saucedemo.com/
+- [https://www.globalsqa.com/demo-site/](https://www.globalsqa.com/demo-site/)
+
+---
+
+## Medium
+
+1. Bank App - https://parabank.parasoft.com/parabank/admin.htm(opens%20in%20a%20new%20tab)
+2. Advance and Complex UI flows - https://staging.engineer.ai/
+3. E2E Booking Web App - [https://katalon-demo-cura.herokuapp.com/](https://katalon-demo-cura.herokuapp.com/)
+4. Forms, Landing Page, Page interactions - https://ultimateqa.com/automation
+5. Basic Address Book App - http://a.testaddressbook.com/
+
+---
+
+## Advance
+
+- CRM - https://opensource-demo.orangehrmlive.com/
+- SPA, JQuery Pages, Other complex UIs - https://www.telerik.com/support/demos
+- https://www.globalsqa.com/angularjs-protractor-practice-site/
+- Advance mouse move, Action, Frame Switch - app.vwo.com
+- Automation E-commerce Store. - http://automationpractice.com/index.php
+
+---
+
+## **SPA Apps Practice**
+
+- https://react-shopping-cart-67954.firebaseapp.com/
+- https://github.com/cypress-io/cypress-realworld-app
+- [https://www.telerik.com/support/demos](https://www.telerik.com/support/demos)
+- [https://www.globalsqa.com/angularjs-protractor-practice-site/](https://www.globalsqa.com/angularjs-protractor-practice-site/)
+
+---
+
+# API Testing
+
+- https://jsonplaceholder.typicode.com/
+- https://restful-booker.herokuapp.com/
+- https://httpbin.org/#/
+- petstore.swagger.io
+- https://learning.postman.com/docs/sending-requests/authorization/
+- https://reqres.in/
+- https://dev.to/promode/7-demo-websites-which-you-can-use-to-perform-api-testing-1p6c

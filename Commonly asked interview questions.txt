@@ -1,0 +1,100 @@
+Commonly Asked interview questions:
+
+Can abstact class can implement a interface
+Does Java Support Multiple inheretance
+Can a interface extend multiple interfaces
+Common String Functions
+What is Split Function Written
+How do u convert a String to Integar
+How do u convert a Array to List
+Write a Program where method should take a number and say whether it is a amstrong number or not
+Collections
+How do you sort a list, What does Sort method take as parameter
+How can you call a method into List can you pass into it
+what are generics in Java
+How do you loop a list
+Frameworks in Selenium
+How do you rewrite excel using Test Ng
+Which Anotation used to rewrite excel
+How do u do parllel execution using Test NG
+How do u do a mouse overusing Selenium
+What Kind of Reporting Implemented in your Project
+What type of Xpath you have written; Examples of xpath you have written
+Suppose you are not able to click a button in Xptah, what is the other way to do it.
+How will you create a itarator
+How do u create custom exeption
+What is Anonimus Class
+Can you write a programme on factorial of Number
+How do u convert Array to List
+If you want to sort a set how will you do that?
+How do you sort a List?
+
+1. Difference between set and list
+2. If .click() method is not working,how will you handle the situation.
+3. How do you retrieve data from webtable
+4. Return type of @dataprovider
+5. How will you handle frames
+6. How will you handle multiple windows
+7. Return type of window handles
+8. How do you do parallel execution using testng--
+9. Can an interface extend multiple interface
+10. Can an abstract class implement interface
+11. What does instanceOf() used for
+12. How do you send data from testng--
+13. How do you sort a list
+14. What is Wrapper class
+15. How will you convert a string to an integer
+16. Any other way to convert string to an       integer other than parseInt()
+17. Methods in list
+18. Methods in string
+19. What actually is a webdriver
+20. What actually is a Chromedriver()
+21. How will you retrieve key value pair using Hashmap
+22. Do you know iterator.How will you use iterator
+How to Switch to Frame ?
+How to Handle multiple window ?
+xpaths in Selenium
+String functions
+HashMap
+Collection
+List and Set methods
+Frameworks in Selenium
+POM
+How to run Testng
+What is split method do?
+What is parameters?
+What is listeners?
+How to handle web tables?
+What are the List methods available?
+What is Maven?
+How to run testng.xml through pom.xml?
+
+How to access values in Hashatable?
+1. Description of framework
+2. Alternate of .click()
+3.Methods of String Class
+4. TestNg Plugin for Devops
+5. automation for web table
+6. wrapper class
+7. Multiple inheritance in interface
+8. can abstract class extend Interface ?
+9. Dynamic xpath
+10. Return type of data provider
+11. How to handle Frame 
+12. Hash Map
+so these are the questions which was asked by the panel
+prepair for the same
+1. Difference between set and list
+2. If .click() method is not working,how will you handle the situation.
+3. How do you retrieve data from webtable
+4. Return type of @dataprovider
+5. How will you handle frames
+6. How will you handle multiple windows
+7. Return type of window handles
+8. How do you do parallel execution using testng--
+9. Can an interface extend multiple interface
+10. Can an abstract
+anonymous class java
+Comparator 
+Iterator methods 
+
