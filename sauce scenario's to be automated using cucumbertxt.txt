@@ -1,0 +1,5 @@
+1.direct login select checkout 
+2. login individual click checkout remove then select multiple from bottom then checkout 
+3. login sort low to high and validate lowest price and then checkout
+
+
